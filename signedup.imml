@@ -1,0 +1,26 @@
+$title: I want a small Android phone!
+$description: Do you think all Android phones are too big? I agree! We need to work together to convince someone to build a small Android phone again.
+
+[home]
+    # 
+
+    ![Photo credit: [https://flickr.com/photos/janitors/51581331165/](https://flickr.com/photos/janitors/51581331165/)](https://smallandroidphone.com/title.jpg)
+
+    # Thanks for signing up!
+    Let's get our dream phone made. Follow me on Twitter [@ericmigi](https://www.twitter.com/ericmigi) for updates.
+
+    
+$style:
+    <style>
+    img.site-logo {
+        height: 16px;
+        image-rendering: pixelated;
+    }
+    @media {
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+    </style>
